@@ -1,3 +1,4 @@
+<img width="1920" height="953" alt="e49a527da44307e9b0c9f1d9dbe7ce66" src="https://github.com/user-attachments/assets/63702e9f-8b54-41e5-be9c-30b05568ac4b" />
 # aiauto-xhs-douyin-publish-work
 全智 AI 运营平台
 
@@ -6,7 +7,8 @@
 全智 AI 是面向内容运营、获客转化和多平台增长的智能运营平台。它可以自动发现热点、生成选题与内容、辅助发布到平台，并持续采集潜在线索，帮助团队更快发现机会、更稳推进转化。
 
 
-# 热点自动发现
+# 热点自动发现<img width="1920" height="953" alt="e49a527da44307e9b0c9f1d9dbe7ce66" src="https://github.com/user-attachments/assets/ba423220-f7b8-4fe4-a6ce-cd154e538453" />
+
 
 平台可以持续关注小红书、抖音等内容平台的热门趋势，帮助运营人员第一时间捕捉用户正在关注的话题。
 
