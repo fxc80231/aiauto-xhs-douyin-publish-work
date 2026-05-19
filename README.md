@@ -1,4 +1,6 @@
-<img width="1920" height="953" alt="e49a527da44307e9b0c9f1d9dbe7ce66" src="https://github.com/user-attachments/assets/63702e9f-8b54-41e5-be9c-30b05568ac4b" />
+
+<img width="1920" height="953" alt="604a115dcba15b0b652c5ba78268263a" src="https://github.com/user-attachments/assets/ad76114a-f573-4cbd-b95b-a44e66739f99" />
+<img width="1920" height="953" alt="833882196e53b8f4aa88f849a3514b2b" src="https://github.com/user-attachments/assets/b253df8d-71f5-4582-87aa-007e60b8755c" />
 # aiauto-xhs-douyin-publish-work
 全智 AI 运营平台
 
@@ -21,6 +23,7 @@
 全智 AI 会围绕热门趋势沉淀选题方向，帮助团队快速判断哪些话题值得写、适合发、能不能和业务结合。
 
 # AI 内容生产
+<img width="1920" height="953" alt="0bb71ff1a4c5cd14c733173846456323" src="https://github.com/user-attachments/assets/e1fa91d9-d38d-454b-87a9-d290c4c80a77" />
 
 从选题到脚本，从内容草稿到发布素材，平台可以辅助完成内容创作流程，让运营人员从“从零开始写”变成“审核、调整、发布”。
 
@@ -49,7 +52,7 @@
 采集到的线索会进入统一列表，支持查看用户、来源、留言内容、意向分、联系方式、跟进状态、私信状态等信息。
 
 团队可以把线索从“新线索”推进到“已联系”“已转化”或“无效”，让获客过程更清晰。
-
+<img width="1920" height="953" alt="7ea794928f6d106655fda2d05ad8da03" src="https://github.com/user-attachments/assets/fec18e2b-8268-47cf-a727-047d9ce61961" />
 # 数据导出
 
 线索数据支持导出，方便团队进行二次分析、销售跟进、客户分层和外部协作。
